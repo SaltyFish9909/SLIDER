@@ -1,0 +1,14 @@
+C:\Users\w401\Desktop\SLIDER\SLIDER\bin\Debug\SLIDER.exe.config
+C:\Users\w401\Desktop\SLIDER\SLIDER\bin\Debug\SLIDER.exe
+C:\Users\w401\Desktop\SLIDER\SLIDER\bin\Debug\SLIDER.pdb
+C:\Users\w401\Desktop\SLIDER\SLIDER\obj\Debug\SLIDER.csprojResolveAssemblyReference.cache
+C:\Users\w401\Desktop\SLIDER\SLIDER\obj\Debug\MainWindow.g.cs
+C:\Users\w401\Desktop\SLIDER\SLIDER\obj\Debug\App.g.cs
+C:\Users\w401\Desktop\SLIDER\SLIDER\obj\Debug\SLIDER_MarkupCompile.cache
+C:\Users\w401\Desktop\SLIDER\SLIDER\obj\Debug\SLIDER_MarkupCompile.lref
+C:\Users\w401\Desktop\SLIDER\SLIDER\obj\Debug\MainWindow.baml
+C:\Users\w401\Desktop\SLIDER\SLIDER\obj\Debug\SLIDER.g.resources
+C:\Users\w401\Desktop\SLIDER\SLIDER\obj\Debug\SLIDER.Properties.Resources.resources
+C:\Users\w401\Desktop\SLIDER\SLIDER\obj\Debug\SLIDER.csproj.GenerateResource.Cache
+C:\Users\w401\Desktop\SLIDER\SLIDER\obj\Debug\SLIDER.exe
+C:\Users\w401\Desktop\SLIDER\SLIDER\obj\Debug\SLIDER.pdb
